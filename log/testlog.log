@@ -1,0 +1,42 @@
+2023-01-04 15:34:56,333 - DalalStreet Framework -INFO - FrameWork Execution started
+2023-01-04 15:39:27,405 - DalalStreet Framework -INFO - FrameWork Execution started
+2023-01-04 15:39:36,750 - DalalStreet Framework -INFO - Browser lounches,url hit,window maximize
+2023-01-04 15:39:36,796 - DalalStreet Framework -INFO - login object created
+2023-01-04 15:39:41,412 - DalalStreet Framework -INFO - logged in
+2023-01-04 15:39:41,429 - DalalStreet Framework -INFO - Test Execution StartedverifyBuyFunctioallity
+2023-01-04 15:39:41,970 - DalalStreet Framework -INFO - Sarch and selected Company option
+2023-01-04 15:39:50,428 - DalalStreet Framework -INFO - buy share
+2023-01-04 15:40:01,490 - DalalStreet Framework -INFO - Test Execution complitedverifyBuyFunctioallity
+2023-01-04 15:40:01,513 - DalalStreet Framework -INFO - Browser closed
+2023-01-04 15:40:01,518 - DalalStreet Framework -INFO - FrameWork Execution stopped
+2023-01-04 15:40:01,527 - DalalStreet Framework -INFO - FrameWork Execution started
+2023-01-04 15:40:08,431 - DalalStreet Framework -INFO - Browser lounches,url hit,window maximize
+2023-01-04 15:40:08,433 - DalalStreet Framework -INFO - login object created
+2023-01-04 15:40:13,289 - DalalStreet Framework -INFO - logged in
+2023-01-04 15:40:13,292 - DalalStreet Framework -INFO - Test Execution StartedverifyLogin
+2023-01-04 15:40:17,302 - DalalStreet Framework -INFO - login asserion passed 
+2023-01-04 15:40:17,305 - DalalStreet Framework -INFO - Test Execution complitedverifyLogin
+2023-01-04 15:40:17,306 - DalalStreet Framework -INFO - Browser closed
+2023-01-04 15:40:17,307 - DalalStreet Framework -INFO - FrameWork Execution stopped
+2023-01-04 15:40:17,316 - DalalStreet Framework -INFO - FrameWork Execution started
+2023-01-04 15:40:24,176 - DalalStreet Framework -INFO - Browser lounches,url hit,window maximize
+2023-01-04 15:40:24,177 - DalalStreet Framework -INFO - login object created
+2023-01-04 15:40:28,936 - DalalStreet Framework -INFO - logged in
+2023-01-04 15:40:28,944 - DalalStreet Framework -INFO - Test Execution StartedverifyBuyIntradayMarket
+2023-01-04 15:40:35,140 - DalalStreet Framework -INFO - Intraday selected & market  
+2023-01-04 15:40:38,270 - DalalStreet Framework -INFO - buy share 
+2023-01-04 15:40:44,340 - DalalStreet Framework -INFO - Assortion pass
+2023-01-04 15:40:44,345 - DalalStreet Framework -INFO - Test Execution complitedverifyBuyIntradayMarket
+2023-01-04 15:40:44,347 - DalalStreet Framework -INFO - Browser closed
+2023-01-04 15:40:44,348 - DalalStreet Framework -INFO - FrameWork Execution stopped
+2023-01-04 15:40:44,353 - DalalStreet Framework -INFO - FrameWork Execution started
+2023-01-04 15:40:52,850 - DalalStreet Framework -INFO - Browser lounches,url hit,window maximize
+2023-01-04 15:40:52,850 - DalalStreet Framework -INFO - login object created
+2023-01-04 15:40:57,658 - DalalStreet Framework -INFO - logged in
+2023-01-04 15:40:57,665 - DalalStreet Framework -INFO - Test Execution StartedverifyIntradayCustom
+2023-01-04 15:41:02,583 - DalalStreet Framework -INFO - intraday custom option selected 
+2023-01-04 15:41:07,711 - DalalStreet Framework -INFO - buy shared 
+2023-01-04 15:41:10,782 - DalalStreet Framework -INFO - Assersion passed
+2023-01-04 15:41:10,784 - DalalStreet Framework -INFO - Test Execution complitedverifyIntradayCustom
+2023-01-04 15:41:10,786 - DalalStreet Framework -INFO - Browser closed
+2023-01-04 15:41:10,787 - DalalStreet Framework -INFO - FrameWork Execution stopped

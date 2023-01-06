@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="RegressionSuite">
+<listeners>
+<listener class-name="ai.ds.apps.utility.Listener"/>
+<listener class-name="ai.ds.apps.utility.ExtentReporterNG"></listener>
+</listeners>
+<parameter name="Browser" value="chrome"/>
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="ai.ds.apps.testLayer.BuyFunctioallity"/>
+      <class name="ai.ds.apps.testLayer.LoginPageTest"/>
+      <class name="ai.ds.apps.testLayer.BuyFunWithIntradayMarket"/>
+      <class name="ai.ds.apps.testLayer.IntradayCustomTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- RegrassionSuite -->
+
